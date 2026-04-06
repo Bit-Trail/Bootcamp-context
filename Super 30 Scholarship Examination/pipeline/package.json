@@ -1,0 +1,12 @@
+{
+  "name": "pipeline-deployment-api",
+  "version": "1.0.0",
+  "description": "In-memory REST API for managing service deployments across environments",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}

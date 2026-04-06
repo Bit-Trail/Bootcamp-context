@@ -1,0 +1,14 @@
+{
+  "name": "solana-auction-house-api",
+  "version": "1.0.0",
+  "private": true,
+  "description": "In-memory Solana-style timed auction REST API",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
+

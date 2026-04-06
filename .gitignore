@@ -1,0 +1,10 @@
+# Ignore Node.js dependency folders
+node_modules/
+**/node_modules/
+
+# Ignore npm lockfile
+package-lock.json
+
+# (Optional) Ignore all directories if you truly want to exclude everything:
+# */
+# NOTE: This is usually not desired for code repos because it hides src/ and config dirs.
